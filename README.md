@@ -8,6 +8,8 @@ Pre-registration: [doi:10.17605/OSF.IO/GAV8F](https://doi.org/10.17605/OSF.IO/GA
 
 Preprint: to be posted
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19648787.svg)](https://doi.org/10.5281/zenodo.19648787)
+
 ## Overview
 
 This repository contains the analysis code for a pre-registered drug-target Mendelian randomization study testing whether genetically proxied LDL-lowering via PCSK9, HMGCR, and NPC1L1 has differential causal effects on pathogen-stratified infection outcomes. All 21 analyses were underpowered; the paper's main contribution is a quantitative roadmap of the GWAS sample sizes required to resolve this question.
