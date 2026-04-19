@@ -1,0 +1,23 @@
+# Data files (too large for git)
+data/raw/*.gz
+data/raw/*.results
+data/raw/EUR.*
+data/reference/
+*.tgz
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+renv/library/
+renv/staging/
+renv/cellar/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.Rproj
